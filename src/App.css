@@ -1,0 +1,29 @@
+.app {
+  width: 100%;
+  max-width: 700px;
+  height: calc(100vh - 32px);
+  max-height: 900px;
+  display: flex;
+  flex-direction: column;
+}
+
+.chat-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background: var(--white);
+  border-radius: 20px;
+  border: var(--border);
+  box-shadow: 4px 4px 0 var(--dark);
+  overflow: hidden;
+}
+
+.chat-footer {
+  text-align: center;
+  font-size: 0.72rem;
+  opacity: 0.45;
+  padding: 6px;
+  border-top: 1px solid var(--peach);
+  font-style: italic;
+  flex-shrink: 0;
+}

@@ -1,0 +1,47 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 20px;
+  background: var(--orange);
+  border-bottom: var(--border);
+  flex-shrink: 0;
+}
+
+.header-logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.header-mascot {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 2px solid var(--dark);
+  object-fit: cover;
+}
+
+.header-title {
+  font-family: 'Fredoka One', cursive;
+  font-size: 1.6rem;
+  color: var(--dark);
+  letter-spacing: 0.5px;
+}
+
+.model-selector {
+  font-family: 'Nunito', sans-serif;
+  font-size: 0.85rem;
+  font-weight: 700;
+  background: var(--cream);
+  border: var(--border);
+  border-radius: var(--radius-sm);
+  padding: 6px 10px;
+  color: var(--dark);
+  cursor: pointer;
+  outline: none;
+}
+
+.model-selector:hover {
+  background: var(--peach);
+}

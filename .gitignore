@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+.env.local
+.DS_Store
+
+# Generated build-tool output — not part of the app
+VideoLibrary/
+src/data/video-library-raw.json

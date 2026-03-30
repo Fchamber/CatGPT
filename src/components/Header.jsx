@@ -9,6 +9,14 @@ export default function Header() {
         <img src="/catgpt-avatar-64.png" alt="catGPT mascot" className="header-mascot" />
         <span className="header-title">catGPT</span>
       </div>
+      <a
+        className="upgrade-btn"
+        href="https://wl.donorperfect.net/weblink/weblink.aspx?name=E362215&id=1"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Upgrade to Premium
+      </a>
       <select className="model-selector" defaultValue="cat-4o">
         {FAKE_MODELS.map(m => (
           <option key={m} value={m}>{m}</option>

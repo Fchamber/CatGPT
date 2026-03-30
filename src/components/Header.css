@@ -29,6 +29,24 @@
   letter-spacing: 0.5px;
 }
 
+.upgrade-btn {
+  font-family: 'Nunito', sans-serif;
+  font-size: 0.85rem;
+  font-weight: 700;
+  background: var(--dark);
+  color: var(--cream);
+  border: var(--border);
+  border-radius: var(--radius-sm);
+  padding: 6px 12px;
+  text-decoration: none;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.upgrade-btn:hover {
+  opacity: 0.85;
+}
+
 .model-selector {
   font-family: 'Nunito', sans-serif;
   font-size: 0.85rem;

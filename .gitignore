@@ -7,3 +7,4 @@ dist/
 # Generated build-tool output — not part of the app
 VideoLibrary/
 src/data/video-library-raw.json
+.claude/

@@ -71,3 +71,20 @@
 .model-selector:hover {
   background: var(--peach);
 }
+
+@media (max-width: 480px) {
+  .header {
+    padding: 10px 12px;
+    gap: 6px;
+  }
+
+  .upgrade-btn {
+    padding: 6px 10px;
+    font-size: 0.78rem;
+  }
+
+  .model-selector {
+    padding: 6px 4px;
+    font-size: 0.78rem;
+  }
+}

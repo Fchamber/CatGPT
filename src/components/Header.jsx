@@ -15,7 +15,7 @@ export default function Header() {
         target="_blank"
         rel="noopener noreferrer"
       >
-        Upgrade to Premium
+        Upgrade
       </a>
       <select className="model-selector" defaultValue="cat-4o">
         {FAKE_MODELS.map(m => (

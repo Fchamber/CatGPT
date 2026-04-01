@@ -8,3 +8,4 @@ dist/
 VideoLibrary/
 src/data/video-library-raw.json
 .claude/
+*.code-workspace

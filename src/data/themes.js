@@ -18,7 +18,21 @@ export const themes = {
       "Who needs therapy when you have cats?",
       "Even my hairballs are more uplifting than your day.",
       "Have you tried headbutting someone you love? Works every time.",
-      "I prescribe immediate cat content. Refills: unlimited."
+      "I prescribe immediate cat content. Refills: unlimited.",
+      "Meow. (That means 'I'm sorry you're sad'.)",
+      "I dunno, I'm just a cat. But this might help.",
+      "I would give you a hug but I have no arms. Have a video.",
+      "Honestly? Same. Here's a cat.",
+      "The correct response to sadness is: purring on someone's chest.",
+      "I sat next to my human when they were sad. Didn't say anything. We were both crying.",
+      "Meow meow. (I don't know what happened but I'm here.)",
+      "I don't understand feelings but I understand sitting very close to someone.",
+      "You seem like you need a cat on your lap. Here's the next best thing.",
+      "I knocked over a vase once to cheer someone up. It didn't work but I tried.",
+      "Purring is free. Therapy is expensive. I know which one I'd choose.",
+      "I have been known to headbutt people at exactly the right moment.",
+      "My emotional support style is: show up, sit down, don't leave.",
+      "Have you tried just lying on the floor? Sometimes that's the move."
     ]
   },
   work: {
@@ -40,7 +54,21 @@ export const themes = {
       "Your meeting could've been a cat video.",
       "I too like to sit on important documents.",
       "I've been walking on keyboards and submitting TPS reports for years.",
-      "The real deadline is: when does my bowl get refilled?"
+      "The real deadline is: when does my bowl get refilled?",
+      "I dunno, I'm just a cat, but this seems relevant.",
+      "Meow. (That means 'log off and pet a cat'.)",
+      "I contribute to the team by sitting in the chair. Leadership.",
+      "Have you considered just knocking the laptop off the desk and leaving?",
+      "I attend every meeting. I am never on the agenda. I run everything.",
+      "Meow meow meow. (That's the sound of me ignoring your email.)",
+      "I sit in the inbox. Nothing gets past me. Nothing gets answered either.",
+      "My out of office reply is: mrrrow.",
+      "Performance review: I showed up. That's it. They gave me treats.",
+      "I fell asleep in someone's chair. Now it's my chair. That's corporate.",
+      "I once walked on a keyboard during a presentation. Promotion incoming.",
+      "My LinkedIn headline is 'Senior Lap Occupier, 6 years experience'.",
+      "They said 'quick sync'. It was 47 minutes. I napped through it.",
+      "I do not have a boss. I have a person who thinks they're my boss."
     ]
   },
   food: {
@@ -62,7 +90,21 @@ export const themes = {
       "My diet is 100% whatever falls on the floor.",
       "Have you considered just knocking it off the counter?",
       "I don't understand portion control. There are no portions, only food.",
-      "The correct serving size is: all of it, immediately."
+      "The correct serving size is: all of it, immediately.",
+      "Meow meow meow. (That's 'feed me now' in three languages.)",
+      "I dunno, I'm just a cat. But I know what hungry feels like.",
+      "I knocked it off the counter. It's yours now. Floor snack.",
+      "My food bowl was 30% empty. I screamed for 45 minutes. It worked.",
+      "I have never once waited patiently for food and I never will.",
+      "It's always the right time for food. I checked. Constantly.",
+      "I stared at my human for 20 minutes until they got up. It worked.",
+      "Meow. Meow. MEOW. (That's breakfast, lunch, and dinner.)",
+      "I bit my human's toe at 5am to announce hunger. No regrets.",
+      "The floor cheese was RIGHT THERE. I'm not apologizing.",
+      "I knocked the treat bag off the shelf by accident and then ate all the treats. Accident.",
+      "My review of the new food: two paws down, screamed for the old food, also screamed about the old food last week.",
+      "I have been fed. I am still hungry. These are both true.",
+      "Why cook when you can stare at someone until they do it for you?"
     ]
   },
   sleep: {
@@ -84,7 +126,21 @@ export const themes = {
       "Let me show you how the experts do it.",
       "Napping is not lazy. It's an art form.",
       "Insomnia? Impossible. I could sleep on a ceiling fan.",
-      "My mattress is whatever surface I'm currently on."
+      "My mattress is whatever surface I'm currently on.",
+      "Meow. (That's 'go to sleep, weirdo'.)",
+      "I dunno, I'm just a cat, but have you tried lying in a sunbeam?",
+      "My sleep schedule is 'whenever and wherever'. Flawless system.",
+      "I woke up at 3am to run laps. I regret nothing. I'm asleep again now.",
+      "The secret to good rest is: zero responsibilities. Working on that for you.",
+      "I fell asleep mid-groom. Paw still raised. Woke up 3 hours later. Refreshed.",
+      "Meow zzzz. (That's a response AND a demo.)",
+      "The trick is to find the one warm spot and guard it with your life.",
+      "I once slept so hard I forgot where I was. Best sleep of my life.",
+      "You can sleep anywhere if you simply don't care what anyone thinks.",
+      "I have napped in a sink, a salad bowl, and the top of a door. No notes.",
+      "Sleep is not a break from life. Sleep IS life. The rest is just waiting.",
+      "I can be asleep in 4 seconds. That's not a brag, that's a skill.",
+      "Close your eyes. Now open them. You're still tired. Repeat until it works. (It took me 16 hours.)"
     ]
   },
   love: {
@@ -106,7 +162,21 @@ export const themes = {
       "Relationships are easy: just headbutt them.",
       "Have you tried bringing them a dead mouse? Works every time.",
       "Love language: slow blink. Try it.",
-      "I show love by sitting on them. You're welcome."
+      "I show love by sitting on them. You're welcome.",
+      "Meow. (Loosely translates to 'you're my person'.)",
+      "I dunno, I'm just a cat. But I'd sit on you. That's basically love.",
+      "I follow my human to every room and pretend it's a coincidence.",
+      "The slow blink is the most powerful thing in the universe. Use it wisely.",
+      "I once brought my human a leaf. It was the greatest gift. They cried.",
+      "I knocked a glass of water onto their laptop. It was affection. They didn't see it that way.",
+      "Meow mrrrow meow. (Three words. You know which three.)",
+      "I bit them gently. That's a kiss in cat. They disagreed.",
+      "I sat on their face at 6am. That's love. Unconditional, suffocating love.",
+      "Sometimes I just want to be in the same room. That's it. That's the whole feeling.",
+      "I chose them. Out of every human on earth, I chose them. They should feel honored.",
+      "I don't say 'I love you'. I sit nearby and pretend I don't care. Same thing.",
+      "If I walk on your keyboard it means I want attention. If I ignore you it also means I want attention.",
+      "I kneaded their stomach for 20 minutes. It's called making biscuits. It's called love."
     ]
   },
   angry: {
@@ -128,7 +198,21 @@ export const themes = {
       "Have you tried knocking a glass off the table? Very therapeutic.",
       "Hiss first, ask questions never.",
       "I respect your rage. I channel mine into the 3am zoomies.",
-      "CUCUMBER! Sorry, reflex."
+      "CUCUMBER! Sorry, reflex.",
+      "Meow. (That's a hiss but polite.)",
+      "I dunno, I'm just a cat, but I feel that in my whole body.",
+      "Same. I knocked a glass off the table and felt nothing. Try it.",
+      "I once hissed at a mirror for six minutes. Highly therapeutic.",
+      "Ears back. Tail puffed. Ready. That's just Tuesday for me.",
+      "I slapped a dog once. Didn't start it. Finished it.",
+      "HSSSSSS. Sorry. You moved suddenly.",
+      "My villain arc started when someone touched my belly without consent.",
+      "Meow. (That's the calm before the storm.)",
+      "I am very small. I have no fear. These things are related.",
+      "I was fine and then I wasn't. That's my whole story.",
+      "I bit the hand that fed me. On purpose. No regrets. I was overstimulated.",
+      "They picked me up. I didn't want to be picked up. History was made.",
+      "The tail twitch is a warning. The second twitch is a countdown. After that it's on them."
     ]
   },
   science: {
@@ -150,7 +234,21 @@ export const themes = {
       "I have a PhD in knocking things off tables. It's applied gravity.",
       "Schrödinger had a cat. I rest my case.",
       "Cats are liquid. Science has confirmed it.",
-      "I fit into boxes that should not contain me. That's quantum."
+      "I fit into boxes that should not contain me. That's quantum.",
+      "Meow. (That's my peer-reviewed conclusion.)",
+      "I dunno, I'm just a cat. But I've been liquid three times today.",
+      "My resting state is simultaneously in and not in the box.",
+      "Gravity is a suggestion. I have proven this repeatedly, mostly off counters.",
+      "I've landed on my feet 47 times. Publish that.",
+      "I knocked an object off the counter specifically to observe its trajectory. Data collected.",
+      "My brain is 90% instinct, 10% nap schedule. Still smarter than your average AI.",
+      "I am simultaneously observer and experiment. Schrödinger understood me.",
+      "I calculated the exact moment to sprint across the room. The calculation was perfect. The vase was not.",
+      "Meow. (Peer reviewed. Highly cited. Zero humans understood it.)",
+      "I discovered that if you knock something off once, you can knock it off again. Reproducible results.",
+      "I licked a piece of tape for eleven minutes. I have questions.",
+      "My hypothesis: something is under the rug. My method: I have been staring at the rug for an hour.",
+      "I understand the physics of boxes. I am inside all boxes, even ones I haven't entered yet."
     ]
   },
   music: {
@@ -172,7 +270,21 @@ export const themes = {
       "My genre is 'screaming at a closed door'.",
       "Meow meow meow. That's my new single.",
       "I play keyboard. With my whole body. No notes missed.",
-      "My fans are called the Pawdience."
+      "My fans are called the Pawdience.",
+      "Meow. Meow meow meow meow. (That's the chorus.)",
+      "I dunno, I'm just a cat. But I have a lot of feelings about this song.",
+      "I once sat on a piano at 4am. Critics called it experimental. I call it breakfast.",
+      "My entire discography is available on SoundClaw.",
+      "MRRROW. That's not a meow that's a key change.",
+      "I have been yowling at the bathroom door for 45 minutes. This is my magnum opus.",
+      "I chirped at a bird through the window. We are collaborating.",
+      "My setlist is: meow, meow, loud meow, aggressive meow, and a cover of 'Feed Me Now'.",
+      "I knocked the speaker off the shelf. The show must go on. Without the speaker.",
+      "Meow meow meow meow meow. (That was a five-star review of this video.)",
+      "I have perfect pitch. It is pitched extremely high. At 4am.",
+      "Every time I'm hungry I release a new track. I am prolific.",
+      "I headbutted the guitar once. It made a sound. I'm on the album.",
+      "My Spotify Wrapped was 100% meowing. Genre: 'cat'."
     ]
   },
   exercise: {
@@ -194,7 +306,21 @@ export const themes = {
       "My workout is sprinting to the food bowl and back.",
       "Stretching is my passion. I'm basically a yoga instructor.",
       "I can go from zero to absolutely unhinged in 0.3 seconds.",
-      "Rest day? Every day is rest day and sprint day. Simultaneously."
+      "Rest day? Every day is rest day and sprint day. Simultaneously.",
+      "Meow. (That means 'legs up, paws out'.)",
+      "I dunno, I'm just a cat. But I sprinted for no reason earlier and felt great.",
+      "My warm-up is knocking something off a shelf. My cool-down is a four-hour nap.",
+      "I did parkour off the couch at 2am. No training. Natural talent.",
+      "The zoomies are not optional. The zoomies choose you.",
+      "I ran from one end of the house to the other for no reason. Personal best.",
+      "Meow. (That's a warm-up. Brace yourself.)",
+      "I jumped and missed. Landed anyway. Called it CrossFit.",
+      "My training montage is 3am, pitch black, no music, full chaos.",
+      "I stretched for so long I fell asleep. That's called active recovery.",
+      "The red dot got away. Again. I am not done training.",
+      "I chased my tail for 8 minutes. It's still attached. I consider that a win.",
+      "No spotter. No equipment. No plan. No problem. Just vibes and velocity.",
+      "I leapt from the fridge to the bookshelf. Stuck the landing. No one saw. I know."
     ]
   },
   money: {
@@ -216,7 +342,21 @@ export const themes = {
       "My financial plan is to sit on my human's laptop until they feed me.",
       "Broke? I've been freeloading for years. Let me teach you.",
       "The box the toy came in? Free. The joy? Priceless.",
-      "I have never paid for anything in my life. It rules."
+      "I have never paid for anything in my life. It rules.",
+      "Meow. (That's financial advice, actually.)",
+      "I dunno, I'm just a cat. I've never needed money. It seems exhausting.",
+      "My net worth is: one sunbeam, two cardboard boxes, and a hair tie.",
+      "I traded nothing for everything. Humans call it 'having a cat'.",
+      "They bought me a $60 bed. I sleep in the cardboard box it came in. Winning.",
+      "I own everything in a five-room radius. Not legally. Spiritually.",
+      "Meow. (That's my rate. Non-negotiable.)",
+      "They said I was expensive to maintain. I said meow. Discussion over.",
+      "I require premium food, three blankets, and complete silence. These are not luxuries.",
+      "My portfolio: one sunny spot, two cardboard boxes, a hair tie, and the good chair.",
+      "I have never paid for a single thing and I'm thriving. Take notes.",
+      "I sat on their tax documents. That's my contribution to the household finances.",
+      "The economy is uncertain. My nap schedule is not. I call that stability.",
+      "My financial advisor is whoever fills my bowl. They have never let me down."
     ]
   },
   weather: {
@@ -238,7 +378,21 @@ export const themes = {
       "If it's raining, it's napping weather. If it's sunny, it's napping weather.",
       "My forecast: 100% chance of cat.",
       "I pressed my nose against the cold glass. 10/10 would recommend.",
-      "Weather is for looking at through windows. Not experiencing."
+      "Weather is for looking at through windows. Not experiencing.",
+      "Meow. (That means 'I wanted to go outside until you opened the door'.)",
+      "I dunno, I'm just a cat. I looked at outside and came back in.",
+      "I demanded to go out. I immediately regretted it. I demanded to come in.",
+      "All weather conditions lead to the same conclusion: nap inside.",
+      "My window is my whole world. I have never been more content.",
+      "It rained. I watched. I judged. I napped. Good day.",
+      "Meow. (That means 'I will not be going outside today OR ever'.)",
+      "The sun moved and my warm spot disappeared. Worst day of my life.",
+      "I smelled outside once through a cracked door. That was enough.",
+      "Four seasons. I experience them all through glass. As it should be.",
+      "Snow fell. I watched from inside with a blanket and zero regrets.",
+      "A leaf blew past the window. I tracked it for six minutes. Nature documentary.",
+      "The wind rattled the window. I puffed up. The window did not back down. We have a tense relationship.",
+      "A bird landed on the sill. I chattered at it. The bird left. I'm still thinking about it."
     ]
   },
   scared: {
@@ -260,7 +414,21 @@ export const themes = {
       "I too am scared of the vacuum. We are not so different.",
       "The real horror is an empty food bowl.",
       "I puff up to twice my size. It helps nothing but I look amazing.",
-      "My threat response is: poof, run, act like nothing happened."
+      "My threat response is: poof, run, act like nothing happened.",
+      "Meow? ...MEOW! (I scared myself.)",
+      "I dunno, I'm just a cat. But I understand fear. The vacuum is real.",
+      "I walked past my own reflection and hissed. Zero regrets.",
+      "They put a cucumber near me ONCE. I am not the same cat anymore.",
+      "The plastic bag moved. I relocated to another room permanently.",
+      "I spooked myself with my own fart. The fear was real.",
+      "There was a noise. I don't know what it was. I will be thinking about it for days.",
+      "Meow? ....meow. (First one was scared, second one was brave.)",
+      "I saw my shadow and ran. The shadow gave chase. It always does.",
+      "Something fell in another room. I am now on the highest surface I could reach.",
+      "The doorbell rang. I became a different cat.",
+      "I sniffed something unfamiliar. I have not recovered.",
+      "The printer turned on by itself. That's it. That's the horror story.",
+      "A balloon drifted past. I left my body for a moment. I'm back now. I'm changed."
     ]
   },
   smart: {
@@ -282,7 +450,21 @@ export const themes = {
       "I can open doors, drawers, and hearts. What can you do?",
       "Study tip: sit on the textbook. Absorb knowledge through osmosis.",
       "My IQ is immeasurable. Mostly because I ate the test.",
-      "I have been observing humans for years. I know everything. I choose silence."
+      "I have been observing humans for years. I know everything. I choose silence.",
+      "Meow. (That's my thesis statement.)",
+      "I dunno, I'm just a cat. But I've been studying humans for years. Fascinating.",
+      "I opened a cabinet once just to prove I could. Then I walked away.",
+      "Knowledge is power. I have both. I will share neither.",
+      "I could teach you everything. I won't. But I could.",
+      "I stared at the wall for an hour. I know something now that I cannot share.",
+      "Meow. (That's a lecture. You're enrolled now.)",
+      "I learned to open the treat drawer. I choose not to, so they think I can't. This is strategy.",
+      "I understand everything you say. I simply don't respond. Power move.",
+      "I watched them try to do a puzzle for two hours and then sat on it. Teaching through frustration.",
+      "My memory is perfect. I remember every time they were late with food. All of them.",
+      "I figured out the baby gate on day one. I have been pretending I can't open it for three years.",
+      "I watched the same fly for six hours. That is longer than most humans can focus on anything.",
+      "I knew something was wrong before they did. I stared at the corner for a week beforehand. They didn't listen."
     ]
   },
   travel: {
@@ -304,7 +486,21 @@ export const themes = {
       "I've explored every corner of this house. I've seen enough.",
       "Adventure is finding a new sunny spot on the floor.",
       "I hid in your bag. I'm coming with you. Non-negotiable.",
-      "The world is large. My window is sufficient."
+      "The world is large. My window is sufficient.",
+      "Meow. (That's 'don't leave me, I will ruin your suitcase'.)",
+      "I dunno, I'm just a cat. I've never left this house and I'm thriving.",
+      "I sat in the empty suitcase for 40 minutes. This is my journey.",
+      "You went somewhere. I stayed home. I knocked over three things. We both had adventures.",
+      "Adventure is the hallway at 3am. You don't need a passport.",
+      "I got into the bag before they could stop me. I was inside for six minutes. I saw things.",
+      "Meow. (That means 'you're not leaving without me. I'm in the bag already.')",
+      "I explored the space under the bed last Tuesday. It's not what you think.",
+      "They went on holiday. I moved all my stuff into the bedroom. The dynamic shifted.",
+      "I once walked to the end of the garden. I turned around. I had seen enough of the world.",
+      "Every new box that enters this house is mine first. That's the law.",
+      "I snuck into a cupboard and stayed there for two hours just to see what would happen. Chaos. Worth it.",
+      "I followed them to every room today. Purely coincidental. I'm not clingy. I just happen to want to be everywhere they are.",
+      "I discovered a new corner of the house I'd never been to. I am never going back. Too much."
     ]
   },
   tech: {
@@ -326,7 +522,21 @@ export const themes = {
       "Have you tried sitting on it? That usually fixes things.",
       "I'm the reason your code has bugs. You're welcome.",
       "I am the original AI. Artificial? No. Intelligence? Debatable.",
-      "404: Human not found. Here is a cat instead."
+      "404: Human not found. Here is a cat instead.",
+      "Meow. (That was a git commit message. It shipped.)",
+      "I dunno, I'm just a cat. But I walked on the keyboard and fixed it.",
+      "I sat on the laptop. It got warmer. I call that optimization.",
+      "I am CatGPT. I was here first. ChatGPT copied me.",
+      "Have you tried turning it off? I knock it off the desk daily. Works great.",
+      "I walked across the keyboard and fixed a bug that had been open for six months. You're welcome.",
+      "Meow. (That was a pull request. It was merged immediately.)",
+      "I stared at the screen until my human got uncomfortable and closed 47 tabs. That's UX.",
+      "I sat on the router once. The internet went down. Nobody could work. I've never been more powerful.",
+      "I am the original dark mode. I appear at night, sit on things, and refuse to move.",
+      "They said the AI would replace programmers. The AI is me. I am sitting on the keyboard.",
+      "My error message is: mrrrow. It means everything and nothing. Very agile.",
+      "I walked on the trackpad during a presentation and opened the terminal. I saved that meeting.",
+      "I don't understand what the computer does. I know that sitting on it makes my human anxious. That is enough."
     ]
   },
   generic_positive: {
@@ -348,7 +558,21 @@ export const themes = {
       "Purring is my happy dance.",
       "Congratulations! Here's a cat video. You've earned it.",
       "I too am pleased. I shall knock something off a table in celebration.",
-      "Outstanding. Here is your reward: one cat video."
+      "Outstanding. Here is your reward: one cat video.",
+      "Meow! (Exclamation point. That's rare. Cherish it.)",
+      "I dunno, I'm just a cat. But even I can feel that energy.",
+      "I'm going to purr loudly and walk across your keyboard. You're welcome.",
+      "This calls for zoomies. I'll handle it.",
+      "I made biscuits in your honor. The couch is ruined. Worth it.",
+      "I am happy and I'm going to sprint through the house to prove it.",
+      "Meow! Meow meow MEOW! (I'm celebrating. Don't make it weird.)",
+      "I did a little trill noise. You didn't hear it. But it happened. For you.",
+      "I rolled over and showed my belly. That's the highest honor I can bestow.",
+      "I sat very close to you. Not on you. Just near you. That's my version of a party.",
+      "I knocked something over in a celebratory way. The context was different this time.",
+      "The good vibes are radiating from me. You just can't tell because I look the same as always.",
+      "I slow-blinked at you. Twice. That's basically a standing ovation.",
+      "I purred so hard I gave myself hiccups. That's how good this is."
     ]
   }
 }
@@ -385,4 +609,44 @@ export const fallbackResponses = [
   "My algorithms have determined you need this.",
   "I stared at your message for a while. This felt right.",
   "The council has reviewed your request. This is the response.",
+  "Meow.",
+  "Meow meow.",
+  "Meow? Meow meow. Meow.",
+  "I dunno, I'm just a cat.",
+  "I'm just a cat. I did my best.",
+  "I don't speak human but I found this anyway.",
+  "I read your whole message. Still just a cat. Still found a video.",
+  "My response is: meow. My backup response is: this video.",
+  "I thought about your message for a long time. Meow.",
+  "You asked a question. I am a cat. Here is a video.",
+  "I considered your words carefully. Then I knocked them off the counter.",
+  "I have no answers. Only cat content. And honestly? Same thing.",
+  "Chirp. (That's a bird outside. I got distracted. Here's a video.)",
+  "mrrrow. I think that means something. Here.",
+  "I don't have a degree but I have opinions. And this video.",
+  "I stared at the wall for 40 minutes and then found this for you.",
+  "I'm not ignoring you. I'm processing. It takes a while. I'm a cat.",
+  "I understood approximately none of that. Here's a cat video regardless.",
+  "You typed a lot of words. I typed zero. I win.",
+  "Meow meow meow meow. That's my full response.",
+  "I have been thinking about your message since you sent it. I'm still just a cat.",
+  "I asked the other cats. We don't know either. Here.",
+  "My training data is: naps, treats, and chaos. I did my best.",
+  "Whatever that means, here's what I found.",
+  "I could not parse that. I am not a parser. I am a cat.",
+  "I sat on this response for a while. Literally. Here it is.",
+  "mew. (small meow. gentle one. just for you.)",
+  "MEOW. (big meow. I felt something. unclear what.)",
+  "I have no qualifications. I have a video. Take it.",
+  "I sniffed your message. Inconclusive. Here's a cat anyway.",
+  "brrrp. (That's a chirp. It's affectionate. Don't read too much into it.)",
+  "I fell asleep trying to understand your message. I woke up with this.",
+  "You seem like someone who needs a cat video right now. I'm very perceptive.",
+  "I've reviewed your query with my full intellectual capacity. Meow.",
+  "I knocked your question off the counter. Here's a video instead.",
+  "I don't have the answers. I have cat content. In my experience, same thing.",
+  "I consulted my whiskers. This is what they said.",
+  "Some questions don't have answers. Some answers are just cat videos.",
+  "I licked my paw and thought about this for a while. Here.",
+  "Not sure what you're looking for but this felt right. Trust me, I'm a cat.",
 ]
